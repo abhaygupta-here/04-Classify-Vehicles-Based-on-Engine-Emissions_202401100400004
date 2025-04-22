@@ -24,6 +24,8 @@ To build a classification model that predicts the emission category (e.g., A, B,
 
 - **Accuracy:** 40%
 - Visualized using a confusion matrix heatmap
+- ![Screenshot 2025-04-22 145933](https://github.com/user-attachments/assets/1079810e-c2bc-4571-a3ac-7f418755eea7)
+
 
 ## 📊 Requirements
 
